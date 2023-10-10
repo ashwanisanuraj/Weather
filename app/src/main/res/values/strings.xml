@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather">Weather</string>
+    <string name="weather_app_nby_ashwani">Weather App\nBy Ashwani</string>
+</resources>
